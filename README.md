@@ -1,4 +1,4 @@
-# test_for_vk
+# VK_Pytest_Examples
 
 Tests for vk assignment, in the direction of Automation QA.
 
